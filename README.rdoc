@@ -1,14 +1,13 @@
 ActsAsParanoidSimpler
 =====================
 
-This is a dead simple plugin that extends acts_as_paranoid by way of demoting it... no more checks for the date something was deleted, only that it's null or not
+This is a dead simple plugin that extends acts_as_paranoid by way of demoting it... no more checks for the date something was deleted, only that it's null or not.
 
+http://github.com/technoweenie/acts_as_paranoid is a pre-requisite.
 
 Example
 =======
 
 Look to technoweenie for answers.
-
-http://github.com/technoweenie/acts_as_paranoid
 
 Copyright (c) 2009 [name of plugin creator], released under the MIT license
